@@ -13,7 +13,7 @@ A miniszobor Herzl Tivadar szülőházát jelöli, ugyanakkor ennél többet is 
 * JustBudapest – Mihály Kolodko miniszobrai felsorolása
 * ChatGPT 5.2 - Prompt: "Egészítsd ki ezt a Kolodkó Mihály Herzl Tivadar miniszobráról készült szöveget"
 
-![Herzl Tivadar miniszobor](https://i.szalas.hu/pois/9016/original/36284.jpg)
+![Herzl Tivadar miniszobor](image-4.png)
 
 # Drakula miniszobor 
 
@@ -28,7 +28,7 @@ Kolodkó Mihály Lugosi Béla ikonikus színészi jelenléte és a film kultúrt
 * TravelToExist – treasure hunt cikk
 * ChatGPT 5.2 - Prompt: "Egészítsd ki ezt a Kolodkó Mihály Drakula miniszobráról készült szöveget"
 
-![Szomorú Tank miniszobor](https://ng.24.hu/uploads/2022/09/358722.jpg)
+![Szomorú Tank miniszobor](image-5.png)
 
 # Lisa Simpson miniszobor 
 
@@ -47,7 +47,7 @@ A műalkotás nemcsak a rajzfilmsorozat rajongóinak jelent nosztalgikus élmén
 * JustBudapest – Mihály Kolodko miniszobrai felsorolása
 * ChatGPT 5.2 - Prompt: "Egészítsd ki ezt a Kolodkó Mihály Lisa Simpson miniszobráról készült szöveget"
 
-![Lisa Simpson miniszobor](https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/02a61405-7572-46aa-8f25-201cfa45f5f4.jpg)
+![Lisa Simpson miniszobor](image-6.png)
 
 # Rubik-kocka miniszobor
 
@@ -64,4 +64,4 @@ A “gerillaszobor” jelleg, vagyis az, hogy kicsi és spontánnak tűnik a vá
 * JustBudapest – Mihály Kolodko miniszobrai felsorolása
 * ChatGPT 5.2 - Prompt: "Egészítsd ki ezt a Kolodkó Mihály Rubik-kocka miniszobráról készült szöveget"
 
-![Rubik-kocka miniszobor](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rubik-kocka.jpg/960px-Rubik-kocka.jpg?20201106215920)
+![Rubik-kocka miniszobor](image-7.png)
