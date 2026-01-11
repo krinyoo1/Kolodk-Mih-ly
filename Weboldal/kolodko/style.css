@@ -1,0 +1,79 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,96.2,659;1,96.2,659&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* Body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F2F0EF;
+    overflow-x: hidden;
+}
+
+/* NAVBAR */
+/* Animation */
+#nav1::after, #nav2::after, #nav3::after, #nav4::after, #nav5::after, #navMain::after{
+    content: '';
+    height: 1.5px;
+    width: 0%;
+    background: linear-gradient(to right, rgb(10, 81, 233), rgb(10, 81, 233, 0.1));
+    position: absolute;
+    left: 0;
+    bottom: 0.7em;
+    transition: all 0.5s ease;
+}
+
+.navbar{
+    background:
+    linear-gradient(to right, rgba(184, 184, 184, 0.15) 0%, rgb(184, 184, 184, 0.0) 10%),
+    linear-gradient(to left, rgb(184, 184, 184, 0.15) 0%, rgb(184, 184, 184, 0.0) 10%),
+    #F2F0EF;
+    position: fixed;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    z-index: 3;
+}
+.navbar::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: 0;          
+    height: 4px;       
+    background: rgba(184, 184, 184, 0.15);
+    z-index: -1;  
+}
+
+/* Styling */
+.navbar-brand{
+    color: #181818;
+    font-size: 120%;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    z-index: 4;
+}
+.nav-link{
+    color: #181818;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.nav-gutter{
+    width: 10%;
+}
+.gutters{
+    display: flex;
+    padding: 0 0.6em;
+    align-items: center;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Links hover */
+#nav1, #nav2, #nav3, #nav4, #nav5, #navMain{position: relative; transition: all 0.5s ease;}
+#nav1:hover, #nav2:hover, #nav3:hover, #nav4:hover, #nav5:hover, #navMain:hover{color: #103fda;}
+#nav1:hover::after, #nav2:hover::after, #nav3:hover::after, #nav4:hover::after, #nav5:hover::after, #navMain:hover::after{width: 100%;}

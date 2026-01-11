@@ -65,3 +65,99 @@ A “gerillaszobor” jelleg, vagyis az, hogy kicsi és spontánnak tűnik a vá
 * ChatGPT 5.2 - Prompt: "Egészítsd ki ezt a Kolodkó Mihály Rubik-kocka miniszobráról készült szöveget"
 
 ![Rubik-kocka miniszobor](image-7.png)
+
+# Főkukac miniszobor
+
+A Főkukac miniszobor Budapest egyik különleges, kicsiny, de annál emlékezetesebb köztéri alkotása, amely a Bem rakparton található, a Duna-parti sétányon. A miniszobrot Kolodko Mihály kárpátaljai származású, ma Magyarországon élő szobrászművész készítette és helyezte el a közterületen. Kolodko munkásságát elsősorban gerillaszobrok jellemzik: apró méretű, bronzból készült figurákat rejt el a város különböző pontjain, gyakran váratlan, felfedezésre csábító helyeken. 
+
+A Főkukac szobra egy népszerű gyermekrajzfilm-karaktert idéz meg: A nagy ho-ho-ho horgász című sorozat egyik figuráját, a vidám kis kukacot, aki eredetileg a horgászat csalija volt, ám a szoborban mintha egy pillanatra megállna a város forgatagában és a Dunát figyelné. A műalkotás így nemcsak egy rajzfilm-emléket hordoz, hanem a gyermekkori nosztalgia és a városi tér játékosságának találkozását is reprezentálja. 
+
+A szobor mérete ellenére nagy hatást gyakorol a járókelőkre: mivel alig néhány tizedméteres, a felfedezése valódi kis „kincskereséssé” válik. Sok látogató éppen ezért szentel energiát annak, hogy ráleljen a rejtett alkotásra, ami a hagyományos, nagyszabású köztéri művészetektől eltérő élményt nyújt. Ez a felfedezés öröme szerves része a mű jelentésének és élményének. 
+
+Kolodko miniszobrai – köztük a Főkukac – a budapesti városi kultúra modern arcát képviselik: miközben aprók, karakterük és elhelyezkedésük révén erős érzelmi hatást váltanak ki. Ezek az alkotások gyakran humorosak, meghökkentők vagy éppen nosztalgikusak, és ösztönzik a látogatót arra, hogy újra felfedezze a megszokott városi tereket. A Főkukac különös helyet foglal el ebben a sorozatban, mivel gyakran emlékezteti a felnőtteket gyermekkori élményeikre, és mosolyt csal az arra járók arcára. 
+
+A szobor nem hivatalos, gerilla jellegű alkotás: nem volt nagy avatási ceremónia vagy hivatalos kihelyezés, hanem a művész titokban helyezte el azt a városban, ezzel is növelve a felfedezés örömét és személyes kapcsolatát az utcai művészettel. Ez a megközelítés egyfajta vállalás: a mű a mindennapi városi élet részévé válik, nem pedig egy kijelölt múzeumi térbe zárt tárgyként létezik. 
+
+**Források:**
+* Miniszobrok nyomában – Coloré cikk, Kolodko és a Főkukac Budapesten (Coloré)
+* Főkukac – Kolodko miniszobor bemutatása (Aktív Kalandor)
+* Turista Magazin – Kolodko-miniszobrok, köztük a Főkukac jelentősége (MTSZ)
+* Magyar Nemzet – Miniszobrok nyomában Budán – fedezd fel a fővárost (Magyar Nemzet)
+* ChatGPT 5.2 - "Egészítsd ki a már meglévő, kb. 2000 karakteres ismertetőt a Főkukac miniszoborról további magyarázatokkal és pontosításokkal."
+
+! [Főkukac-miniszobor](image-16.png)
+
+# Ferenc József miniszobor
+
+A Ferenc József-miniszobor Kolodko Mihály egyik legismertebb és legbeszédesebb alkotása, amely Budapesten, a Szabadság híd pesti hídfőjénél található. A kis méretű bronzszobor az Osztrák–Magyar Monarchia uralkodóját, I. Ferenc Józsefet ábrázolja, aki 1848 és 1916 között állt a birodalom élén. Kolodko sajátos stílusára jellemző módon a szobor nem monumentális emlékműként jelenik meg, hanem ironikus, elgondolkodtató miniszoborként, amely új megvilágításba helyezi a történelmi alakot.
+
+A szobor különlegessége, hogy Ferenc József egy apró, kissé esetlen figuraként jelenik meg, kezében a koronával. Ez az ábrázolásmód tudatos művészi döntés: Kolodko gyakran reflektál a történelemre finom iróniával, és emberközelivé teszi azokat az alakokat, akiket a hagyományos szobrászat hatalmas, tekintélyt sugárzó formában ábrázol. A koronát tartó uralkodó egyszerre utal a hatalomra és annak törékenységére, valamint a magyar történelem ellentmondásos korszakaira.
+
+A miniszobor történelmi utalásrendszere összetett. Ferenc József személye Magyarországon megosztó: uralkodása alatt zajlott az 1848–49-es szabadságharc leverése, ugyanakkor a kiegyezés (1867) révén hosszú időre stabilitást és fejlődést hozott az ország számára. Kolodko alkotása nem ítélkezik nyíltan, hanem kérdéseket vet fel: hogyan viszonyulunk ma a múlt nagy alakjaihoz, és miként értelmezzük újra a történelmet a jelen szemszögéből.
+
+A szobor elhelyezése sem véletlen. A Szabadság híd önmagában is erős szimbolikus jelentéssel bír, így a miniszobor környezete tovább erősíti a mű üzenetét. A járókelők gyakran véletlenül fedezik fel az apró alkotást, ami Kolodko művészetének egyik alapelve: a felfedezés élménye személyes kapcsolatot teremt a néző és a mű között.
+
+Összességében a Kolodko-féle Ferenc József-miniszobor nem csupán egy történelmi figura ábrázolása, hanem gondolatébresztő köztéri alkotás, amely humorral és iróniával segít újragondolni a múltat, és hozzájárul Budapest modern városi kulturális arculatához
+
+**Források:**
+* Köztérkép.hu – Ferenc József (Kolodko Mihály miniszobra)
+* ErreArra.org – Kolodko Mihály: Ferenc József miniszobor a Szabadság hídnál
+* Fidelio.hu – Kolodko Mihály: irónia és történelem a köztéri miniszobrokban
+* Pestbuda.hu – Kolodko Mihály budapesti miniszobrai és történelmi utalásaik
+* ChatGPT 5.2 - "Egészítsd ki a meglévő ismertetőt a Kolodko Mihály által készített Ferenc József-miniszoborról úgy, hogy részletesebb legyen a szobor története és jelentősége."
+
+![Ferenc József miniszobor](image-17.png)
+
+# Kockásfülü nyúl miniszobor
+
+A Kockásfülű nyúl miniszobor (Kolodko Mihály) – története és jelentősége
+
+A Kockásfülű nyúl miniszobor Kolodko Mihály egyik legkedveltebb budapesti alkotása, amely a Bem rakpart környékén, a Duna közelében található. A kis méretű bronzszobor a magyar animációtörténet egyik ikonikus figuráját, a Kockásfülű nyulat ábrázolja, aki a hetvenes–nyolcvanas években vetített, azonos című rajzfilmsorozat főszereplője volt. A karakter generációk számára vált meghatározóvá, hiszen különleges képességeivel – például hosszú, kockás füleivel – mindig segített a bajba jutott gyerekeken.
+
+Kolodko Mihály gerillaszobrászati stílusához hűen ezt az alkotást is engedély nélkül, meglepetésszerűen helyezte el a városi térben. A szobor nem monumentális formában idézi meg a figurát, hanem apró, játékos megjelenéssel, amely felfedezésre ösztönzi a járókelőket. Ez a megközelítés tudatos művészi döntés: Kolodko célja, hogy a néző ne csak szemlélője, hanem aktív felfedezője legyen a városi művészetnek.
+
+A Kockásfülű nyúl miniszobor erős nosztalgikus töltettel bír. A rajzfilm a magyar televíziózás aranykorát idézi, így a szobor elsősorban a felnőtteket szólítja meg, akik saját gyerekkoruk emlékeivel találkoznak újra. Ugyanakkor a fiatalabb generációk számára is figyelemfelkeltő, hiszen a karakter barátságos és játékos megjelenése könnyen szerethetővé teszi.
+
+A szobor jelentősége túlmutat önmagán: része annak a miniszobor-hálózatnak, amely Budapestet egyfajta szabadtéri, interaktív kiállítótérré alakítja. A Kockásfülű nyúl Kolodko más alkotásaihoz hasonlóan arra ösztönzi az embereket, hogy más szemmel nézzenek a városra, és észrevegyék az apró részletekben rejlő értékeket. Az alkotás egyszerre tisztelgés a magyar rajzfilmkultúra előtt és modern városi művészeti állásfoglalás.
+
+Összességében a Kockásfülű nyúl miniszobor egy szerethető, gondolatébresztő köztéri alkotás, amely a humor, a nosztalgia és a felfedezés élményén keresztül járul hozzá Budapest kulturális arculatához
+
+**Források:**
+* Szoborlap.hu – Kockásfülű nyúl miniszobra (Kolodko Mihály)
+* Köztérkép.hu – Kolodko Mihály: Kockásfülű nyú
+* Fidelio.hu – Kolodko Mihály miniszobrai és jelentésük
+* Pestbuda.hu – Budapesti miniszobrok nyomában – Kolodko Mihály alkotásai
+* ChatGPT 5.2 - "Egészítsd ki a meglévő ismertetőt a Kolodko Mihály Kockásfülű nyúl-miniszoboráról, hogy részletesebben bemutassa a történetét és jelentőségét"
+
+![Kockásfülü nyúl miniszobor](image-18.png)
+
+# Yoda mester szobra
+
+Yoda mester miniszobor (Kolodko Mihály) – története és jelentősége
+
+A Yoda mester miniszobor Kolodko Mihály egyik legkülönlegesebb és legfrissebb budapesti alkotása, amely a 4‑es metró Szent Gellért téri állomásánál bukkant fel 2024 augusztusában. Az apró bronzszobor a „Csillagok háborúja” (Star Wars) filmsorozat egyik legismertebb karakterét, Yodát, a bölcs Jedi mestert ábrázolja, aki a filmekben a békességet, a tudást és a belső erőt jelképezi. 
+hvg.hu
++1
+
+Kolodko Mihály köztudottan olyan apró miniszobrokat készít, amelyeket gerilla módon helyez el a város közterein, így váratlan találkozást és felfedezési élményt nyújtva a járókelők számára. A Yoda‑szobor sem kivétel: a mozgólépcső melletti korlátra ültetve az alkotás mintha a metróba tartókat figyelné, vagy épp gondolkodna a városi forgatag felett. 
+Köztérkép
+
+A választás, hogy épp Yodát formázza meg, több szempontból is érdekes. Yoda a népszerű kultúra egyik olyan figurája, aki generációkat köt össze: a Star Wars‑rajongó felnőtteket a filmek emlékeivel hozza közelebb, míg a fiatalabbak számára is ismerős és szerethető karakter. Az ilyen popkulturális utalások Kolodko művészetében fontos szerepet játszanak, hiszen nem csupán nosztalgiát ébresztenek, hanem a művészet és a hétköznapi élet közötti határvonalat is elmosva ösztönzik a felfedezést és a párbeszédet. 
+hvg.hu
+
+A szobor elhelyezése a metróállomásnál különösen jelentős: ilyen forgalmas helyszínen a miniszobor számos ember számára válik felfedezhetővé, miközben hozzájárul a város kulturális élményéhez. A Kolodko‑alkotások célja – és ezt a Yoda‑mű is tükrözi – az, hogy a városi térben rejtett „kincseket” hozzon létre, amelyek a megszokott útvonalakat izgalmasabbá és személyesebbé teszik. 
+Startlap - Hírek, időjárás, információk
+
+Bár Kolodko sokszor engedély nélkül helyezi el műveit, a Yoda‑szobor esetében a Budapesti Közlekedési Központ (BKK) is pozitívan reagált a megjelenésére, sőt saját közösségi média felületén is megosztotta azt, ezzel jelezve, hogy a városi szervezetek is felismerik a mű értékét. 
+hvg.hu
+
+Összességében a Yoda mester miniszobor nem csupán egy popkulturális hivatkozás: egy kreatív, felfedezésre ösztönző köztéri műalkotás, amely a budapesti utcákat egy kicsit varázslatosabbá, élménygazdagabbá és közösségibbé teszi. A mű a modern városi művészet sajátos példája, amely egyaránt szól a filmes ikonográfiát értő közönséghez és az egyszerű járókelőhöz is.
+
+**Források:**
+* HVG – Yoda mesterről készített miniszobrot Kolodko Mihály a négyes metrónál
+* Köztérkép.hu – Yoda (miniszobor), Szent Gellért tér
+* Startlap Utazás – Újabb Kolodko‑szobor Budapesten: Yoda mester ügyel a    metrómegálló békéjére
+* Újbudai Hírek – Yoda‑miniszobor került a Gellért téri metrómegállóba
+* ChatGPT 5.2 - "Egészítsd ki a meglévő ismertetőt a Kolodko Mihály Yoda mester-miniszoborról, hogy bemutassa a történetét, elhelyezkedését és jelentőségét."
+
+![Yoda mester szobra](image-19.png)

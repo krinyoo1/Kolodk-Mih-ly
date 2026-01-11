@@ -1,0 +1,351 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,96.2,659;1,96.2,659&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* Body reset */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(7, 10, 15);
+    overflow-x: hidden;
+}
+
+/* Panorama section */
+#panorama{
+    height: 40vh;
+    width: 100%;
+    background-image: 
+        linear-gradient(to top, rgb(7, 10, 15,1) 0%, rgb(7, 10, 15,0.0) 50%),
+        url('images/panorama.jpg');
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;       
+    justify-content: flex-end;    
+    align-items: flex-start;      
+    padding: 2vh 5vw;             
+}
+
+/* Title styling */
+#title{
+    font-size: 150%;
+}
+
+/* Navbar underline animation */
+#nav1::after, #nav2::after, #nav3::after, #nav4::after, #nav5::after, #navMain::after{
+    content: '';
+    height: 1.5px;
+    width: 0%;
+    background: linear-gradient(to right, rgb(253, 255, 206), rgb(233, 10, 10));
+    position: absolute;
+    left: 0;
+    bottom: 0.7em;
+    transition: all 0.5s ease;
+}
+
+/* Column padding */
+#row1-column1, #row2-column1, #row2-column2, #row1-column2{
+    padding: 2%;
+}
+
+/* Images styling */
+#img1, #img2{
+    border-radius: 1em;
+    box-shadow: 0 2px 60px rgb(0, 0, 0);
+    transition: all 0.5s ease;
+}
+#img1:hover, #img2:hover{
+    transform: scale(1.1);
+    box-shadow: 0 2px 80px rgb(0, 0, 0);
+}
+
+/* Introduction section */
+#introduction{
+    padding: 5% 3%;
+}
+
+/* Second panorama with parallax */
+#panorama2 {
+    height: 80vh;
+    width: 100%;
+    background: 
+        linear-gradient(to right, rgb(7, 10, 15, 0.7) 0%, rgb(7, 10, 15,0.0) 30%),
+        linear-gradient(to left, rgb(7, 10, 15, 0.7) 0%, rgb(7, 10, 15,0.0) 30%),
+        url('images/panorama2.jpg');
+    background-attachment: fixed;
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    padding: 2vh 5vw;  
+}
+
+/* Quote block */
+#quote-block {
+    width: 50vw;
+    max-width: 600px; 
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 3%;
+    text-align: center;
+}
+#quote{
+    font-size: clamp(1.5rem, 5vw, 4rem);
+    font-family:'Times New Roman', Times, serif !important;
+    font-style: italic;
+}
+#author{
+    border-bottom: 5px dotted #dfdfdf;
+    padding-bottom: 2%;
+}
+#quotation-marks{
+    width: 20%;
+}
+
+/* Footer styling */
+footer{
+    height: max-content;
+    width: 100%;
+    background: rgb(13, 18, 27);
+    padding: 5vh;
+    border-top:2px solid #dfdfdf;
+}
+#footer1, #footer2{
+    padding: 3vh;
+    line-height: 5vh;
+    font-size: 120%;
+}
+#footerP2{
+    padding-bottom: 2vh;
+}
+#credits{
+    padding-top: 1vh;
+    border-top: 2px solid #dfdfdf;
+    font-size: 70%;
+}
+#footertitle{
+    font-weight: 700;
+}
+#footericon{
+    width: 15vh;
+    height: 15vh;
+}
+
+/* LA Sign & Motto */
+#lasign{
+    font-family: "Roboto", sans-serif;
+    font-size: 5em;
+    color: #e0e0e0e0;
+    font-weight: bolder;
+    margin: 0;
+    margin-left: 1em;
+}
+#lamotto{
+    font-style: italic;
+    color: #e0e0e0e0;
+    margin: 0.2em 0 0 0;
+    font-family: "Roboto", sans-serif;
+}
+/* Navbar styling */
+.navbar{
+    background:
+    linear-gradient(to right, rgb(233, 10, 10, 0.1) 0%, rgb(233, 10, 10, 0.0) 10%),
+    linear-gradient(to left, rgb(233, 10, 10, 0.1) 0%, rgb(233, 10, 10, 0.0) 10%),
+    rgb(20, 28, 42);
+    position: fixed;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    z-index: 3;
+}
+.navbar::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: 0;          
+    height: 4px;       
+    background: linear-gradient(
+        to right,
+        rgba(20, 28, 42, 0) 0%,               
+        rgba(233, 10, 10, 0.87) 50%,         
+        rgba(20, 28, 42, 0) 100%               
+    );
+    z-index: -1;  
+}
+.navbar-brand{
+    color: #dfdfdf;
+    font-size: 120%;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    z-index: 4;
+}
+.nav-link{
+    color: #dfdfdf;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.nav-gutter{
+    width: 10%;
+}
+.gutters{
+    display: flex;
+    padding: 0 0.6em;
+    align-items: center;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Card sections */
+#card-row{
+    padding: 5%;
+}
+#card-row2, #card-row3{
+    padding: 1%;
+}
+#card-row2{
+    padding-top: 3%;
+}
+
+/* Discover section */
+#discover-section{
+    padding: 5% 3%;
+}
+#discover{
+    position: relative;
+    padding-bottom: 1%;
+}
+#discover::after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    bottom: 1em;          
+    height: 4px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(
+        to right,
+        rgba(7, 10, 15, 0) 0%,               
+        rgba(233, 10, 10, 0.87) 50%,          
+        rgba(7, 10, 15, 0) 100%              
+    );
+}
+
+/* Float animations */
+@keyframes floatDown {
+    0% {opacity: 0; transform: translateY(-50px);}
+    100% {opacity: 1; transform: translateY(0);}
+}
+@keyframes floatUp {
+    0% {opacity: 0; transform: translateY(50px);}
+    100% {opacity: 1; transform: translateY(0);}
+}
+@keyframes floatLeft {
+    0% {opacity: 0; transform: translateX(50px);}
+    100% {opacity: 1; transform: translateX(0);}
+}
+@keyframes floatRight {
+    0% {opacity: 0; transform: translateX(-50px);}
+    100% {opacity: 1; transform: translateX(0);}
+}
+
+/* Animation triggers */
+#lamotto, #panorama, #wrapper4, #wrapper5, #wrapper6, #lasign, #wrapper7, #wrapper6, #row1-column1, #wrapper8, #row1-column2, #row2-column1, #row2-column2, #quote-block{
+    opacity: 0;
+}
+#lamotto.active, #panorama.active, #wrapper4.active, #wrapper5.active{
+    animation: floatDown 1s ease forwards;
+}
+#lasign.active, #wrapper7.active {
+    animation: floatUp 1s ease forwards;
+}
+#wrapper6.active, #row1-column1.active, #row2-column1.active{
+    animation: floatRight 1s ease forwards;
+}
+#wrapper8.active, #row1-column2.active, #row2-column2.active, #quote-block.active {
+    animation: floatLeft 1s ease forwards;
+}
+
+/* Animation delays */
+#wrapper5.active{animation-delay: 0.2s;}
+#row1-column1.active, #row2-column2.active, #lamotto.active, #wrapper6.active{animation-delay: 0.4s;}
+#wrapper7.active{animation-delay: 0.6s;}
+#wrapper8.active{animation-delay: 0.8s;}
+#lamotto{animation-delay: 0.2s;}
+#lasign{animation-delay: 0.4s;}
+#wrapper1{animation-delay: 0.2s;}
+#wrapper2{animation-delay: 0.4s;}
+#wrapper3{animation-delay: 0.6s;}
+
+/* Card background hover */
+.card-bg {
+    background-color: rgb(13, 18, 27);
+    padding: 2em;
+    border-radius: 1em;
+    position: relative;
+    z-index: 1;
+    border: 0.1em solid rgb(182, 182, 182);
+    box-shadow: 0 2px 60px rgb(0, 0, 0);
+    transition: all 0.3s ease;
+}
+.card-bg:hover{
+    box-shadow: 0 2px 80px rgb(15, 27, 48);
+    transform: scale(1.05);
+    background-color: rgb(15, 27, 48);
+    border-color: rgb(253, 255, 206);
+    z-index: 0;
+}
+
+/* Paragraph and headings */
+p{color: #dfdfdf; font-family: "Roboto", sans-serif; font-size: 150%;}
+.learn-more{color: #dfdfdf; font-family: "Roboto", sans-serif; font-size: 150%; text-decoration: none;}
+h3{color: #dfdfdf; font-family: "Open Sans", sans-serif; font-size: 200%;}
+h2{color: #dfdfdf; font-family: "Open Sans", sans-serif; font-size: 250%;}
+.learn-more{font-weight: bold; transition: all 0.5s ease;}
+.learn-more:hover{
+    color: rgba(255, 200, 200, 0.87);
+}
+.learn-more::after {
+    content: '';
+    position: absolute;
+    transition: all 0.5s ease;
+    width: 0%;
+    bottom: 0.8em;          
+    height: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(
+        to right,
+        rgba(7, 10, 15, 0) 0%,               
+        rgba(233, 10, 10, 0.87) 50%,          
+        rgba(7, 10, 15, 0) 100%              
+    );
+}
+.learn-more:hover:after{
+    width: 50%;
+}
+
+
+/* Navbar links hover */
+#nav1, #nav2, #nav3, #nav4, #nav5, #navMain{position: relative; transition: all 0.5s ease;}
+#nav1:hover, #nav2:hover, #nav3:hover, #nav4:hover, #nav5:hover, #navMain:hover{color: rgb(253, 255, 206);}
+#nav1:hover::after, #nav2:hover::after, #nav3:hover::after, #nav4:hover::after, #nav5:hover::after, #navMain:hover::after{width: 100%;}
+
+/* Title hover */
+#title:hover{color: #dfdfdf;}
+
+/* Navbar toggler icon */
+.navbar-toggler-icon{background-image: url(images/dropdownicon.webp)!important;}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {width: 8px; height: 8px;}
+::-webkit-scrollbar-track {background: rgb(13, 18, 27); border-radius: 10px;}
+::-webkit-scrollbar-thumb {background: rgb(42, 72, 128); border-radius: 10px;}
+::-webkit-scrollbar-thumb:hover {background: rgb(72, 116, 199);}
+* {scrollbar-width: thin; scrollbar-color: rgb(42, 72, 128) rgb(13, 18, 27);}
