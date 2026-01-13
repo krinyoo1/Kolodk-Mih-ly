@@ -1,0 +1,356 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,96.2,659;1,96.2,659&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* Body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(11, 16, 24);
+    overflow-x: hidden;
+}
+
+/* Paragraph and headings */
+p{color: #f7f7f7; font-family: "Roboto", sans-serif; font-size: 120%;}
+h3{color: #f7f7f7; font-family: "Open Sans", sans-serif; font-size: 150%;}
+h2{color: #f7f7f7; font-family: "Open Sans", sans-serif; font-size: 170%;}
+h1{color: #f7f7f7; font-family: "Open Sans", sans-serif; font-size: 600%; font-weight: 200;}
+.learn-more{color: #f7f7f7; font-family: "Roboto", sans-serif; font-size: 150%; text-decoration: none;}
+.learn-more{font-weight: bold; transition: all 0.5s ease;}
+.learn-more:hover{color: #353535;}
+
+/* NAVBAR */
+/* Animation */
+#nav1::after, #nav2::after, #nav3::after, #nav4::after, #nav5::after, #navMain::after{
+    content: '';
+    height: 1.5px;
+    width: 0%;
+    background: linear-gradient(to right, rgb(10, 144, 233), rgb(10, 144, 233));
+    position: absolute;
+    left: 0;
+    bottom: 0.7em;
+    transition: all 0.5s ease;
+}
+
+.navbar{
+    background:
+    linear-gradient(to right, rgba(10, 144, 233, 0.1) 0%, rgb(10, 144, 233, 0.0) 10%),
+    linear-gradient(to left, rgb(10, 144, 233, 0.1) 0%, rgb(10, 144, 233, 0.0) 10%),
+    rgb(20, 28, 42);
+    position: fixed;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    z-index: 3;
+}
+.navbar::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: 0;          
+    height: 4px;       
+    background: linear-gradient(
+        to right,
+        rgba(20, 28, 42, 0) 0%,               
+        rgba(10, 144, 233, 0.87) 50%,         
+        rgba(20, 28, 42, 0) 100%               
+    );
+    z-index: -1;  
+}
+.navbar-brand{
+    color: #f7f7f7;
+    font-size: 120%;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    z-index: 4;
+}
+.nav-link{
+    color: #f7f7f7;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.nav-gutter{
+    width: 10%;
+}
+.gutters{
+    display: flex;
+    padding: 0 0.6em;
+    align-items: center;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Navbar height variable used to offset fixed navbar */
+:root{
+    --navbar-height: 64px;
+}
+
+/* Links hover */
+#nav1, #nav2, #nav3, #nav4, #nav5, #navMain, #title{position: relative; transition: all 0.5s ease;}
+#nav1:hover, #nav2:hover, #nav3:hover, #nav4:hover, #nav5:hover, #navMain:hover, #title:hover{color: rgb(126, 203, 255);}
+#nav1:hover::after, #nav2:hover::after, #nav3:hover::after, #nav4:hover::after, #nav5:hover::after, #navMain:hover::after, #title:hover::after{width: 100%;}
+
+/* Introduction */
+#introduction {
+    text-align: center;
+    line-height: 1em;
+    background:
+    linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
+    url(../images/panorama4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: calc(var(--navbar-height) + 5%);
+    padding-bottom: 5%;
+    padding-right: 2%;
+}
+
+#intro1 {
+    padding-bottom: 1%;
+}
+
+/* Ensure headings inside the intro use the off-white color (override global h1/h2) */
+#intro1-text h1,
+#intro2-text h2,
+#introduction h1,
+#introduction h2{
+    color: #ececec;
+    text-align: left;
+    margin-left: 5%;
+}
+
+#intro2-text h2{
+    margin-left: 9%;
+}
+
+#intro3 {
+    background: rgb(20, 28, 42);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+.imgwrappers, .textwrappers {
+    padding: 2%;
+}
+
+.textwrappers p {
+    text-align: justify;
+    line-height: 1.6em;
+}
+
+.imgwrappers img {
+    border-radius: 1em;
+    box-shadow: 0 1px 80px rgb(0, 0, 0);
+
+    transition: all 0.2s ease;
+}
+.imgwrappers img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 2px 100px rgb(0, 0, 0);
+}
+/* Cards*/
+#card-row{
+    padding: 2%;
+}
+#card-row2, #card-row3{
+    padding: 1%;
+}
+#card-row2{
+    padding-top: 3%;
+}
+
+.card-wrapper{
+    padding: 2%;
+    position: relative;
+    z-index: 1;
+}
+
+.card-bg {
+    background-color: rgb(36, 50, 75);
+    padding: 2em;
+    line-height: 1.6em;
+    border-radius: 1em;
+    position: relative;
+    z-index: 1;
+    transition: all 0.3s ease;
+}
+.card-bg:hover{
+    transform: scale(1.05);
+    background-color: rgb(54, 75, 112);
+    z-index: 0;
+}
+.card-bg p{
+    color: #f7f7f7;
+    font-family: "Roboto", sans-serif;
+    font-size: 120%;
+}
+.card-bg h3{
+    font-size: 180%;
+}
+
+.learn-more::after {
+    content: '';
+    position: absolute;
+    transition: all 0.5s ease;
+    width: 0%;
+    bottom: 0.8em;          
+    height: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(
+        to right,
+        rgba(7, 10, 15, 0) 0%,
+        rgba(19, 228, 255, 0.2) 25%,               
+        rgba(19, 228, 255, 0.76) 50%,
+        rgba(53, 127, 255, 0.2) 75%,          
+        rgba(19, 228, 255, 0) 100%              
+    );
+}
+.learn-more:hover:after{
+    width: 50%;
+}
+
+.learn-more:hover{
+    color: rgba(71, 234, 255, 0.87);
+}
+
+/* Second panorama with parallax */
+#panorama2 {
+    height: 80vh;
+    width: 100%;
+    background: 
+        linear-gradient(to right, rgb(7, 10, 15, 0.7) 0%, rgb(7, 10, 15,0.0) 30%),
+        linear-gradient(to left, rgb(7, 10, 15, 0.7) 0%, rgb(7, 10, 15,0.0) 30%),
+        url('../images/panorama2.png');
+    background-attachment: fixed;
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat;  
+    padding: 2vh 5vw;  
+}
+
+#box1, #box2 {
+    background-color: rgb(20, 28, 42, 0.8);
+    border-radius: 1em;
+    margin-top: 10vh;
+    backdrop-filter: blur(5px);
+    text-align: justify;
+
+    padding: 2em;
+}
+
+/* Footer styling */
+footer{
+    height: max-content;
+    width: 100%;
+    background: rgb(13, 18, 27);
+    padding: 5vh;
+}
+#footer1, #footer2{
+    padding: 3vh;
+    line-height: 5vh;
+    font-size: 120%;
+}
+#footerP2{
+    padding-bottom: 2vh;
+}
+#credits{
+    padding-top: 1vh;
+    font-size: 70%;
+}
+#footertitle{
+    font-weight: 700;
+}
+#footericon{
+    width: 15vh;
+    height: 15vh;
+}
+
+/* Float animations */
+@keyframes floatDown {
+    0% {opacity: 0; transform: translateY(-50px);}
+    100% {opacity: 1; transform: translateY(0);}
+}
+@keyframes floatUp {
+    0% {opacity: 0; transform: translateY(50px);}
+    100% {opacity: 1; transform: translateY(0);}
+}
+@keyframes floatLeft {
+    0% {opacity: 0; transform: translateX(50px);}
+    100% {opacity: 1; transform: translateX(0);}
+}
+@keyframes floatRight {
+    0% {opacity: 0; transform: translateX(-50px);}
+    100% {opacity: 1; transform: translateX(0);}
+}
+
+/* Animation triggers */
+#intro1, #intro2, #imgwrapper1, #imgwrapper2, #textwrapper1, #textwrapper2, #box1, #box2, #wrapper1, #wrapper2, #wrapper3 {
+    opacity: 0;
+}
+
+#intro1.active{
+    animation: floatDown 1s ease forwards;
+}
+#intro2.active, #box1.active {
+    animation: floatRight 1s ease forwards;
+}
+#imgwrapper1.active, #imgwrapper2.active, #wrapper2.active {
+    animation: floatDown 1s ease forwards;
+}
+#textwrapper1.active, #textwrapper2.active, #wrapper1.active, #wrapper3.active {
+    animation: floatUp 1s ease forwards;
+}
+#box2.active {
+    animation: floatLeft 1s ease forwards;
+}
+
+#intro1.active, #box1.active, #wrapper1.active, #textwrapper1.active{animation-delay: 0.2s;}
+#intro2.active, #box2.active, #wrapper2.active, #textwrapper2.active{animation-delay: 0.4s;}
+#imgwrapper1.active, #wrapper3.active{animation-delay: 0.6s;}
+#imgwrapper2.active{animation-delay: 0.8s;}
+
+/* Navbar toggler icon */
+.navbar-toggler-icon{background-image: url(images/dropdownicon.webp)!important;}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {width: 8px; height: 8px;}
+::-webkit-scrollbar-track {background: rgb(13, 18, 27); border-radius: 10px;}
+::-webkit-scrollbar-thumb {background: rgb(42, 72, 128); border-radius: 10px;}
+::-webkit-scrollbar-thumb:hover {background: rgb(72, 116, 199);}
+* {scrollbar-width: thin; scrollbar-color: rgb(42, 72, 128) rgb(13, 18, 27);}
+
+/* Responsive fixes: make panorama text fit on small screens */
+@media (max-width: 1600px) {
+    /* Disable parallax-like fixed background on small devices for better layout */
+    #panorama2 { 
+        height: auto;
+        padding: 3vh 4vw;
+        background-attachment: scroll;
+    }
+
+    /* Reduce large padding and margin so boxes fit vertically */
+    #box1, #box2 {
+        padding: 1rem;
+        margin-top: 4vh;
+        border-radius: 0.75rem;
+        font-size: 95%;
+    }
+
+    /* Make intro headings and large fonts scale down */
+    h1 { font-size: 220%; }
+    h2 { font-size: 140%; }
+
+    /* Ensure paragraphs are easily readable and don't overflow */
+    p { font-size: 100%; line-height: 1.45; }
+
+    /* Prevent horizontal overflow from big containers */
+    .container-fluid, .row { overflow: visible; }
+}
